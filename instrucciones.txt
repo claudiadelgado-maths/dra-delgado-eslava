@@ -1,0 +1,90 @@
+PROYECTO: Página web para Dra. Delgado Eslava (clínica estética)
+
+OBJETIVO:
+Crear una landing page moderna, elegante y optimizada para móviles, enfocada en captar clientes mediante WhatsApp y transmitir una imagen profesional médica.
+
+ESTILO Y DISEÑO:
+- Estética limpia, elegante y profesional (tipo clínica premium)
+- Inspiración: Instagram (scroll vertical, visual, atractivo)
+- Colores: blanco + tonos neutros + acentos suaves (beige/dorado/rosado claro)
+- Tipografía: elegante, moderna, ligera (simular estilo del logo "DE")
+- Diseño mobile-first (muy importante)
+
+ESTRUCTURA DE LA PÁGINA:
+
+1. HEADER:
+- Logo (texto: "Dra. Delgado Eslava")
+- Menú hamburguesa (responsive)
+- Ícono de Instagram (link: https://www.instagram.com/dra.delgadoeslava/)
+
+2. HERO (PORTADA):
+- Video en loop como fondo (archivo: /assets/hero-video.mp4)
+- Texto encima:
+  "Medicina estética en Málaga"
+- Botón principal:
+  "Pide tu cita"
+  → enlace: https://wa.me/qr/FZMNVMP7LR2MP1
+
+3. BOTÓN FLOTANTE:
+- WhatsApp fijo en pantalla (posición inferior derecha)
+- Siempre visible
+
+4. SECCIÓN SOBRE NOSOTROS:
+- Imagen (assets/clinica.jpg)
+- Texto inventado profesional (tono médico, elegante)
+
+5. SECCIÓN FILOSOFÍA:
+- Texto centrado
+- Enfocado en bienestar, salud y estética integral
+
+6. SECCIÓN TRATAMIENTOS:
+- Tarjetas con imagen (assets/tratamiento1.jpg, tratamiento2.jpg...)
+- Cada tarjeta tiene:
+  - título
+  - breve descripción
+- (no redirigen por ahora)
+
+7. SECCIÓN GALERÍA:
+- Grid de imágenes (assets/galeria1.jpg, galeria2.jpg...)
+- Diseño tipo Instagram
+
+8. CTA FINAL:
+- Texto:
+  "Pide tu cita o solicita más información"
+- Botón WhatsApp
+
+9. FOOTER:
+- Dirección (inventada por ahora)
+- Teléfono (inventado)
+- Horario
+- Instagram
+- Mapa (iframe Google Maps opcional)
+
+IMPORTANTE:
+- NO implementar backend
+- NO formularios por ahora
+- TODO debe ser frontend puro (HTML, CSS, JS)
+
+ARCHIVOS A CREAR:
+- index.html
+- style.css
+- script.js
+- carpeta /assets/ (referencias a imágenes, aunque no existan aún)
+
+COMPORTAMIENTO:
+- Diseño completamente responsive (prioridad móvil)
+- Animaciones suaves (fade, scroll)
+- Navegación fluida
+- Código limpio y organizado
+
+IMPORTANTE SOBRE ARCHIVOS:
+- Asumir que los archivos multimedia existen (no crearlos)
+- Usar nombres definidos en /assets/
+
+CREATIVIDAD:
+- Puedes tomar decisiones de diseño para mejorar estética
+- Mantener coherencia visual premium
+- Priorizar impacto visual y conversión
+
+RESULTADO FINAL:
+Una landing page moderna, funcional, visualmente atractiva y lista para subir a GitHub Pages.
